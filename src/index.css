@@ -11,3 +11,15 @@ body {
   box-sizing: border-box;
   font-family: 400;
 }
+
+.min-color{
+  background-color:rgba(233,236,242,1)
+}
+.secondary-color{
+  background-color: rgba(148,20,255,1)
+}
+
+.min-text-color{
+  color: rgba(26, 26, 30, 1);
+
+}
