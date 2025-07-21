@@ -46,7 +46,7 @@ const LoginPage = () => {
                         Welcome back
                     </h1>
 
-                    <p className="text-[18px] w-[70%] m-auto text-center secondary-text-color mb-8 px-6 md:px-0 sm:mb-12">
+                    <p className="text-[18px] md:w-[70%] mx-auto text-center  secondary-text-color mb-8 px-6 md:px-0 sm:mb-12">
                        Step into our shopping metaverse for an 
                        
                        unforgettable shopping experience
