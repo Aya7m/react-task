@@ -46,14 +46,16 @@ const LoginPage = () => {
                         Welcome back
                     </h1>
 
-                    <p className="text-[18px]  text-center text-gray-700 mb-8 px-6 md:px-0 sm:mb-12">
-                        Step into our shopping metaverse for an unforgettable shopping experience
+                    <p className="text-[18px] w-[70%] m-auto text-center secondary-text-color mb-8 px-6 md:px-0 sm:mb-12">
+                       Step into our shopping metaverse for an 
+                       
+                       unforgettable shopping experience
                     </p>
 
-                    <form onSubmit={handleLogin} className="space-y-5">
+                    <form onSubmit={handleLogin} className="space-y-5 w-[70%] m-auto">
                         {/* Email */}
                         <div className="relative">
-                            <FaEnvelope className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-700" />
+                            <FaEnvelope className="absolute left-3 top-1/2 -translate-y-1/2 secondary-text-color" />
                             <input
                                 type="email"
                                 placeholder="Email"
@@ -65,7 +67,7 @@ const LoginPage = () => {
 
                         {/* Password */}
                         <div className="relative">
-                            <FaLock className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-700" />
+                            <FaLock className="absolute left-3 top-1/2 -translate-y-1/2 secondary-text-color" />
                             <input
                                 type="password"
                                 placeholder="Password"
@@ -87,8 +89,8 @@ const LoginPage = () => {
                         </button>
 
 
-                        <p className="text-center text-sm text-gray-700 mt-2">
-                            Don’t have an account? <span className="text-black cursor-pointer">Sign up</span>
+                        <p className="text-center text-[14px] secondary-text-color mt-2">
+                            Don’t have an account? <span className="secondary-text-color cursor-pointer ">Sign up</span>
                         </p>
                     </form>
                 </div>
@@ -96,7 +98,7 @@ const LoginPage = () => {
 
 
             {/* Right Section */}
-            <div className="relative w-full md:w-1/2 flex flex-col items-center justify-center space-y-6 py-10">
+            <div className="relative w-full md:w-1/2 flex flex-col items-center justify-center space-y-6 py-10 z-10">
 
                 <img src={Logo} alt="Logo" className="w-[100%] max-w-[600px]  object-contain" />
                 <div className="absolute top-[55%] left-1/2 transform -translate-x-1/2 translate-y-1/2">
