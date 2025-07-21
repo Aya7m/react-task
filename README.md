@@ -1,21 +1,13 @@
-# React + Vite
+# 🛠️ Yeshtery Login Assessment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-
-<!-- ********************************************************* -->
-
-# Yeshtery Login Assessment ✅
+✅ [Live Demo on Vercel](https://react-task-ggy2wguzt-ayas-projects-ecef4715.vercel.app/dashboard)
 
 This is a React + Vite + Tailwind app for Yeshtery's developer login challenge.
+
+
+
+
+
 
 ## 🔧 Tech Stack
 
@@ -56,10 +48,10 @@ login.PNG
 dashbord.PNG
 
 ### 🟢 Login Page
-<img src="./public/login.PNG" width="500"/>
+<img src="./login.PNG" width="500"/>
 
 ### 🟢 Dashboard Page
-<img src="./public/dashbord.PNG" width="500"/>
+<img src="./dashbord.PNG" width="500"/>
 
 
 ```md
@@ -76,4 +68,4 @@ dashbord.PNG
 
 ## 🌐 Live Demo
 
-🔗 https://your-vercel-link.vercel.app
+🔗https://react-task-ggy2wguzt-ayas-projects-ecef4715.vercel.app/
