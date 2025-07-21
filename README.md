@@ -1,6 +1,6 @@
 # 🛠️ Yeshtery Login Assessment
 
-✅ [Live Demo on Vercel](https://react-task-ggy2wguzt-ayas-projects-ecef4715.vercel.app/dashboard)
+✅ [Live Demo on Vercel](https://react-task-git-main-ayas-projects-ecef4715.vercel.app/)
 
 This is a React + Vite + Tailwind app for Yeshtery's developer login challenge.
 
@@ -48,10 +48,10 @@ login.PNG
 dashbord.PNG
 
 ### 🟢 Login Page
-<img src="./login.PNG" width="500"/>
+<img src="https://res.cloudinary.com/dnejzqj2z/image/upload/v1753117280/login_zga53z.png" width="500"/>
 
 ### 🟢 Dashboard Page
-<img src="./dashbord.PNG" width="500"/>
+<img src="https://res.cloudinary.com/dnejzqj2z/image/upload/v1753117266/dashbord_ogdnr5.png" width="500"/>
 
 
 ```md
@@ -68,4 +68,4 @@ dashbord.PNG
 
 ## 🌐 Live Demo
 
-🔗https://react-task-ggy2wguzt-ayas-projects-ecef4715.vercel.app/
+🔗https://react-task-git-main-ayas-projects-ecef4715.vercel.app/
